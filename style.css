@@ -23,3 +23,10 @@ a {
     text-decoration: 0;
     color: #E5E7EB;
 }
+
+.first {
+    display: flex;
+    justify-content: space-evenly;
+    color: #F9FAF8;
+    background-color: #1F2937;
+}
