@@ -36,7 +36,7 @@ h3{
     justify-content: space-evenly;
     color: #F9FAF8;
     background-color: #1F2937;
-    padding: 50px;
+    padding: 20px 50px 50px;
 }
 
 .lefty{
@@ -94,3 +94,32 @@ button {
     align-items: center;
 }
 
+.middle{
+    display: flex;
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+
+.one{
+    width: 850px;
+}
+
+.quote{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    font-weight: 300;
+    font-size: 36px;
+    color: #1F2937;
+    width: 850px;
+}
+
+.author{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
