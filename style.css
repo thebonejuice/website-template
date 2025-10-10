@@ -179,3 +179,12 @@ h3{
     align-items: center;
     flex-direction: center;
 }
+
+.footer{
+    background-color: #1F2937;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+}
